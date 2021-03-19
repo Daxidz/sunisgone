@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/smol_cat.png-877978a3e7048e150fc9f89c71829c39.stex"
+path="res://.import/smol_cat.png-e860c9e91702e27a6ec5ec56040156ab.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://smol_cat.png"
-dest_files=[ "res://.import/smol_cat.png-877978a3e7048e150fc9f89c71829c39.stex" ]
+source_file="res://assets/img/player/smol_cat.png"
+dest_files=[ "res://.import/smol_cat.png-e860c9e91702e27a6ec5ec56040156ab.stex" ]
 
 [params]
 
