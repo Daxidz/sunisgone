@@ -21,11 +21,17 @@ config/icon="res://icon.png"
 
 [display]
 
-window/size/width=256
-window/size/height=144
+window/size/width=1920
+window/size/height=1080
+window/vsync/vsync_via_compositor=true
 window/stretch/mode="viewport"
 window/stretch/aspect="keep"
 
+[editor_plugins]
+
+enabled=PoolStringArray( "smoothing" )
+
 [rendering]
 
+quality/2d/use_pixel_snap=true
 environment/default_environment="res://default_env.tres"
